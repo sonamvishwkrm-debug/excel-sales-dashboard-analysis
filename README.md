@@ -1,4 +1,16 @@
-# excel-sales-dashboard-analysis
+Project: Excel Sales Dashboard Analysis
+
+Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+
+Analysis Performed
+- Revenue analysis
+- Profit analysis
+- Region-wise sales
+- Monthly sales trend
+
 Sales data analysis using Excel with pivot tables and dashboard
 
 📊 Sales Data Analysis – Key Insights
